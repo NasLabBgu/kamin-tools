@@ -1,0 +1,5 @@
+{
+	"dont_consolidate": [],
+	"ignore_labels": ["SJ", "SG", "CBE_2", "CBB", "SF", "NA", "OTH"],
+	"merge_labels": []
+}
